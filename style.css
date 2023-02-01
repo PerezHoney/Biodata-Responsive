@@ -1,0 +1,165 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.col-1{width: 8.33%;}
+.col-2{width: 16.66%;}
+.col-3{width: 25%;}
+.col-4{width: 33 .33%;}
+.col-5{width: 41.66%;}
+.col-6{width: 50%;}
+.col-7{width: 58.33%;}
+.col-8{width: 66.66%;}
+.col-9{width: 75%;}
+.col-10{width: 83.33%;}
+.col-11{width: 91.66%;}
+.col-12{width: 99.99%;}
+
+
+.head{
+    width: 95%;
+    padding-bottom: 40px;
+    padding-top: 27px;
+}
+.head h1{
+    font-size: 70px;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.pic-u{
+    width: 120px;
+    height: 120px;
+    border: 1.5px solid black;
+    position: absolute;
+    right: 30px;
+    top: 20px;
+}
+.content-head{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    margin: 10px 25px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.p-head{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: 600;
+    
+}
+
+.content-data{
+    border: 2px solid black;
+    margin: 0 25px;
+    padding: 5px 5px 10px 5px;
+    border-radius: 10px;
+}
+
+
+.tubagon{
+    display: flex;
+}
+.tubagon label{
+    display: flex;
+    padding-top: 5px;
+}
+.tubagon .p1{
+    width: 150px;
+}
+.p3{
+    width: 100%;
+}
+.tubagon input{
+    margin-left: 5px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    margin-right: 10px;
+    padding-top: 5px;
+    padding-left: 2px;
+    
+}
+.row{
+    display: flex;
+    padding: 0 3px;
+}
+
+.p3{
+    width: 100%;
+    display: inline-block;
+}
+
+.last-content{
+    margin: 5px 25px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.last-content .left{
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+.last-content .right{
+   align-items: center;
+   text-align: center;
+   margin-top: 35px;
+   padding-right: 70px;
+
+}
+.last-content .right .text{
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.last-tubagon{
+    display: flex;
+}
+.last-tubagon label{
+    display: flex;
+}
+.last-content label .p1{
+    width: 150px;
+}
+.last-content input{
+    margin-left: 5px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    padding-top: 5px;
+    padding-left: 2px;
+    width: 320px;
+}
+.last-content .sig{
+    text-align: center;
+}
+
+.last-content .right input{
+    width: 90%;
+}
+
+.myCustomSpan{
+    border: 1px solid black
+    padding: 20px;
+    font-size: 20px;
+    width: 100px;
+    height: 100px
+    position:absolute;
+    right: 40px;
+    top: 20px;
+    float: right;
+    text-align: center;
+
+}
+.Mycontainer{
+    padding-left: 80px;
+    padding-right: 80px;
+}

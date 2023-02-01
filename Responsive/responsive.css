@@ -1,0 +1,16 @@
+@media screen and (max-width: 991px) {
+    .header_image{
+        display: flex;
+        justify-content: center;
+    }
+    .last-row{
+        display: block;
+        margin-right: 10px;
+    }
+    .lastcontent .right{
+        margin-left: 0px;
+        padding-top: 40px;
+    }
+    
+
+}

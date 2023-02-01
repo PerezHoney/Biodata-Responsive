@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.head{
+    text-align: center;
+    align-items: center;
+    margin: 10px 20px;   
+}
+.image{
+    height:150px;
+    width: 150px;
+    border: 2px solid rgb(40, 35, 35);
+    display: block  ;
+    bac
+    
+}
+#photo{
+    width: 91px;
+}
+.border{
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    align-items: center;
+    border: none;
+}
+.sp1{
+    width: 400px;
+}
+.sp2{
+    width: 480px;
+}
+.sp3{
+    width: 300px;
+}
+
+.header_tittle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header_image{
+    display: flex;
+    justify-content: right;
+}
+.ht1{
+    font-size: 70px;
+    font-weight: 900;
+}
+.image{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.col{
+    border: none;
+}
+.row-tittle{
+    background-color: black;
+    margin: 20px 20px;
+    color: white;
+    border-radius: 20px;
+}
+.row-text{
+    padding: 5px 20px;
+    font-size: 15px ;
+    font-weight: 600;
+}
+.tubagon-border{
+    border: 2px solid black;
+    margin: 5px 20px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.tubagon{
+    display: flex;
+    margin-bottom: 5px;
+}
+.tubagon label{
+    display: flex;
+}
+.tubagon label .p1{
+    width: 150px;
+}
+.tubagon input{
+    border: none;
+    border-bottom: 1px solid black;
+    margin-left: 5px;
+    width: 100%;
+    outline: none;
+    padding-left: 10px;
+}
+.p3{
+    width: auto;
+}
+
+#dropdown{
+    width: 100%;
+    text-align: center;
+    margin-left: 5px;
+    outline: none;
+    text-align: left;
+}
+.form-control{
+    background-color: white;
+    outline: none;
+}
+.lastcontent{
+    margin: 20px 20px;
+    padding-bottom: 50px;
+}
+.lastcontent .left{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 0px 10px;
+  
+    
+}
+.lastcontent .right{
+    margin-left: 70px;
+    padding-top: 40px;
+}
+.lastcontent .right .text{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.lastcontent .right label{
+    text-align: center;
+    width: 100%;
+}
+.lastcontent .sig{
+    border: none;
+    border-bottom: 1px solid black;
+    margin-left: 5px;
+    width: 100%;
+    outline: none;
+    padding-left: 10px;
+    text-align: center;
+}
